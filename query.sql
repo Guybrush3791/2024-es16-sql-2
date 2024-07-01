@@ -1,9 +1,6 @@
 -- Visualizzazione Base
 -- Scrivi una query per visualizzare tutte le informazioni di tutti i treni.
 
--- Selezione Condizionata
--- Scrivi una query per trovare i treni che sono partiti ma non sono ancora arrivati alla loro destinazione finale (data odierna minore di end_time).
-
 -- Selezione per Agente
 -- Scrivi una query per elencare tutti i treni gestiti dall'agenzia 'Cremin LLC'.
 
