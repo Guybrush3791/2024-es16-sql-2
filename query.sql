@@ -40,7 +40,7 @@
 
 -- 11. Treni Non Cancellati con Pochi Vagoni
 -- Scrivi una query per trovare i treni non cancellati (deleted = 0) con meno di 7 vagoni.
--- 8
+-- 16
 
 -- BONUS
 
